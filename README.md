@@ -39,5 +39,7 @@
 
 - [x] 📫 **How to reach me:** ![Gmail Badge](https://img.shields.io/badge/-akhiltushar2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhiltushar2000@gmail.com)
 
+[![Twitter: Tusharakhil](https://img.shields.io/twitter/follow/Tusharakhil?style=social)](https://twitter.com/Tusharakhil)
+[![GitHub akhiltushar](https://img.shields.io/github/followers/akhiltushar?label=follow&style=social)](https://github.com/akhiltushar)
 
 <img src="https://github-readme-stats.vercel.app/api?username=akhiltushar&&show_icons=true&title_color=ffffff&icon_color=0cd2ff&text_color=daf7dc&bg_color=191919">
