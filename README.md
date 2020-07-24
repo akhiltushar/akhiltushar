@@ -1,14 +1,18 @@
 ### Hola, I'm Tushar ! 👋
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiltushar&label=Views&color=blue&style=plastic" alt="akhiltushar" /> </p>
  
  ***I'm a Third-year student at Parul University, Vadodara, Pursuing my Bachelor's in Computer Science Engineering. Being a technology enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities. I am Open For Internships, You can Send me your Offer on My mail or just Message me.***
  <br>
  <br>
- <a href="https://www.linkedin.com/in/tushar-ba401a136/">
-    <img align="left" alt="Bhargav Joshi | Linkedin" width="40px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg" />
-  </a> 
  <a href="https://twitter.com/Tusharakhil">
-    <img align="left" alt="Bhargav Joshi | Twitter" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.svg" />
-  </a>
+  <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tushar-ba401a136/">
+  <img align="left" alt="Tushar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/akhiltushar">
+  <img align="left" alt="Tushar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <br>
 <br>
 ## 🧐 About
