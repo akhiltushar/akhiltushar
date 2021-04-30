@@ -1,7 +1,7 @@
 ### Hola, I'm Tushar ! 👋
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiltushar&label=Views&color=blue&style=plastic" alt="akhiltushar" /> </p>
  
- ***I'm a Third-year student at Parul University, Vadodara, Pursuing my Bachelor's in Computer Science Engineering. Being a technology enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities. I am Open For Internships, You can Send me your Offer on My mail or just Message me.***
+ ***I'm a final-year student at Parul University, Vadodara, Pursuing my Bachelor's in Computer Science Engineering. Being a technology enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities. I am Open For Internships, You can Send me your Offer on My mail or just Message me.***
  <br>
  <br>
  <a href="https://twitter.com/Tusharakhil">
