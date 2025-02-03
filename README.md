@@ -1,17 +1,14 @@
 ### Hola, I'm Tushar ! 👋
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiltushar&label=Views&color=blue&style=plastic" alt="akhiltushar" /> </p>
+
+ **As an avid user of technology, I find new and emerging projects highly inspiring. Beyond my academic abilities, I am a confident speaker and have no trouble presenting in front of an audience.**
+
+**I am currently working as an ***SDE 1 at APPMATTIC***, a company focused on crafting mobile-first and cloud-native experiences. Additionally, I lead the FlutterFlow Developer Group (FFDG) and actively contribute to Google Developer Group Baroda (GDG Baroda). My passion for hackathons remains strong—I have participated in over 150+ of them in various roles.**
+
+**Beyond technology, food and travel are my two favorite things, adding adventure and flavor to my journey.**
+
+**Feel free to reach out to me!**
  
- ***TUSHAR here, good day to all***.
-
-***As an avid user of technology, I find new and forthcoming projects and technologies to be highly inspiring.
-In addition to my academic abilities, I consider myself to be highly confident and have no trouble speaking in front of a group.
-I was a Community Evangelist for Reskilll.***
-
-***I have a great interest for hackathons and have participated in more than 45 of them in a variety of positions.
-I speak in public and am active in the community.
-In addition, my two favourite things are food and travel.***
-
-***Please don't hesitate to contact me; I'd be happy to hear from you and assist you in any way I can.***
  <br>
  <br>
  <a href="https://twitter.com/Tusharakhil">
@@ -25,31 +22,17 @@ In addition, my two favourite things are food and travel.***
 </a>
 <br>
 <br>
-<!-- ## 🧐 About
 
-- [x] 🔭 ***I’m currently working on***
- ####      ![](https://img.shields.io/badge/Machine%20Learning-%7C-blue) ![](https://img.shields.io/badge/Flutter%20-|-blue) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/Java-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  
+- 🌱 I’m currently learning **.net, Azure and DSA**
 
-- [x] **🏄‍ Community guy who loves being involved in communities and help students grow**
+- 💬 Ask me about **🚀 FlutterFlow & No-Code Development, 💻 Software Development, 🎤 Public Speaking & Community Building**
 
-- [x] **😄 I will usually be a part of hackathons as a #Participants and a #Organiser**
+- 📫 How to reach me **akhiltushar2000@gmail.com**
 
-- [x] 👯 **I’m looking to collaborate on differnt projects of Web Development & Flutter**
-
-- [x] **🔭 I am currently an CodingBlocks Ambassador, [Mozillian](https://mozillians.org/en-US/u/akhiltushar2000/) and been a part of many communities and programs by a big force**
-
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+- ⚡ Fun fact **I've participated in over 150+ hackathons, love exploring new places, and believe good food makes everything better! 🚀🍕🌍**
 
 
-- [x] 💬 **Ask me about anything :)** 
+<!--<img src="https://github-readme-stats.vercel.app/api?username=akhiltushar&&show_icons=true&title_color=ffffff&icon_color=0cd2ff&text_color=daf7dc&bg_color=191919"> -->
 
-- [x] 🌱 **I’m currently learning** ***Flutter & Java***
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhiltushar&show_icons=true&locale=en" alt="akhiltushar" />
 
-- [x] ⚡ **Fun fact : I love meeting new people and eating food!**
-
-- [x] 📫 **How to reach me:** ![Gmail Badge](https://img.shields.io/badge/-akhiltushar2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhiltushar2000@gmail.com) -->
-
-<!-- [![Twitter: Tusharakhil](https://img.shields.io/twitter/follow/Tusharakhil?style=social)](https://twitter.com/Tusharakhil)
-[![GitHub akhiltushar](https://img.shields.io/github/followers/akhiltushar?label=follow&style=social)](https://github.com/akhiltushar) -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=akhiltushar&&show_icons=true&title_color=ffffff&icon_color=0cd2ff&text_color=daf7dc&bg_color=191919">
